@@ -1,0 +1,6 @@
+common_name="gdp.allianz"
+country="DE"
+locality="Munich"
+organization="Allianz"
+organizational_unit="GDP"
+validity_period_hours="87600"
